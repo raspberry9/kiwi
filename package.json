@@ -10,6 +10,6 @@
     "body-parser": "1.13.2",
     "mongoose": "4.0.x",
     "jwt-simple": "0.3.x",
-    "morgan": "1.6.x"
+    "morgan": "1.9.x"
   }
 }
