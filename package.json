@@ -9,7 +9,7 @@
     "express": "4.x",
     "body-parser": "1.13.2",
     "mongoose": "4.0.x",
-    "jwt-simple": "0.3.x",
+    "jwt-simple": "0.5.x",
     "morgan": "1.6.x"
   }
 }
