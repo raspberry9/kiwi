@@ -1,0 +1,15 @@
+{
+  "name": "kiwi",
+  "description": "kiwi server framework",
+  "version": "0.0.1",
+  "private": true,
+  "author": "koo@kormail.net",
+  "license": "",
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "1.13.2",
+    "mongoose": "4.0.x",
+    "jwt-simple": "0.3.x",
+    "morgan": "1.6.x"
+  }
+}
